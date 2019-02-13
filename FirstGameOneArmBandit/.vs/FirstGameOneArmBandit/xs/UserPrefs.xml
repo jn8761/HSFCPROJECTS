@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{84989F1B-E4B4-4B50-BD4C-EDB5676753F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstGame/Form1.cs">
+    <Files>
+      <File FileName="FirstGame/Form1.cs" Line="100" Column="1" />
+      <File FileName="FirstGame/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="FirstGame/Form1.resx" Line="1" Column="1" />
+      <File FileName="FirstGame/Program.cs" Line="1" Column="1" />
+      <File FileName="FirstGame/Wheel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
