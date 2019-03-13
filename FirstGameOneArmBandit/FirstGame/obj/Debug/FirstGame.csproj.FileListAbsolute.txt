@@ -18,3 +18,13 @@ C:\Users\jn8761\OneDrive - Hereford Sixth Form College\Computer Science\Code\Fir
 C:\Users\jn8761\OneDrive - Hereford Sixth Form College\Computer Science\Code\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.exe
 C:\Users\jn8761\OneDrive - Hereford Sixth Form College\Computer Science\Code\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.pdb
 C:\Users\jn8761\OneDrive - Hereford Sixth Form College\Computer Science\Code\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.csprojAssemblyReference.cache
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\bin\Debug\FirstGame.exe.config
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\bin\Debug\FirstGame.exe
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\bin\Debug\FirstGame.pdb
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.csprojAssemblyReference.cache
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.Form1.resources
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.Properties.Resources.resources
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.csproj.GenerateResource.cache
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.csproj.CoreCompileInputs.cache
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.exe
+\\internal.hereford.ac.uk\student\2018 enrolment\jn8761\My Documents\Computer Science\2. Algorithms & Programming\HSFCPROJECTS\FirstGameOneArmBandit\FirstGame\obj\Debug\FirstGame.pdb
